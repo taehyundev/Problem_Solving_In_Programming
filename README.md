@@ -49,13 +49,13 @@ Let's program using problem solving! (2020-02-16  ~)
  # Stack / Queue / Deque
 
 + Stack / Queue / Deque ( "[]"로 해본 언어 표시 )
-     + 초하급 과정
+     + 초중급 과정
       
           + 스택 구현 []
           + 큐 구현 []
           + 덱 구현 []
           
-     + 초중급 과정
+     + 초급 과정
       
           + BFS(너비우선탐색) []
           + DFS(깊이우선탐색) []
