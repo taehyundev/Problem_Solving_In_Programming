@@ -1,7 +1,7 @@
 # Problem_Solving_In_Programming
 Let's program using problem solving! (2020-02-16  ~)
 
-**Last Update : 2020-02-17**
+**Last Update : 2020-02-19**
 
 > PS(Problem Solving)는 주어진 문제를 정해진 언어를 통해 시간 제한과 메모리 제한에서 해결하면 된다.
 
@@ -38,8 +38,8 @@ Let's program using problem solving! (2020-02-16  ~)
           + 퀵 정렬(분할 정복 알고리즘 습득) [c++]
      + 초상급 과정
       
-          + 병합 정렬 [미 습득]
-          + 힙 정렬 [미 습득]
+          + 병합 정렬(분할 정복 알고리즘 2) [c++] //체감 난이도 상
+          + 힙 정렬 [미 습득] 
      + ETC
           
           + C++ STL sort()함수
