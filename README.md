@@ -42,7 +42,7 @@ Let's program using problem solving! (2020-02-16  ~)
           + 힙 정렬 [미 습득] 
      + ETC
           
-          + C++ STL sort()함수
+          + C++ STL sort()함수 [C++]
        
  >> 현재 진행중인 Part 상황
  
@@ -62,6 +62,7 @@ Let's program using problem solving! (2020-02-16  ~)
        
  >> 진행 예정 Part
  
+ >> 그 이후 그리디 알고리즘 
  
        Etc . 크루스칼 알고리즘, 이진 트리의 구현과 순회, 다이나믹 프로그래밍 
  
