@@ -57,10 +57,10 @@ Let's program using problem solving! (2020-02-16  ~)
           
      + 초상급 과정
       
-          + BFS(너비우선탐색) []
-          + DFS(깊이우선탐색) []
+          + BFS(너비우선탐색) [c++]
+          + DFS(깊이우선탐색) [C++]
        
- >> 진행 예정 Part
+ >> 현재 진행중인 Part 상황
  
  >> 그 이후 그리디 알고리즘 
  
