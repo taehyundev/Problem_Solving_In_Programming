@@ -53,7 +53,7 @@ Let's program using problem solving! (2020-02-16  ~)
       
           + 스택 구현 [C++]
           + 큐 구현 [C++]
-          + 덱 구현 []
+          + 덱 구현 [C++]
           
      + 초상급 과정
       
