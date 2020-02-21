@@ -26,7 +26,7 @@ Let's program using problem solving! (2020-02-16  ~)
       
 ### 현재 공부하는 내용(실시간 업데이트)
 
-# 정렬
+# 정렬 <복습 준비>
 
 + 정렬 ( "[]"로 해본 언어 표시 )
      + 초하급 과정
@@ -46,7 +46,7 @@ Let's program using problem solving! (2020-02-16  ~)
        
  >> 현재 진행중인 Part 상황
  
- # Stack / Queue / Deque
+ # Stack / Queue / Deque <복습 준비>
 
 + Stack / Queue / Deque ( "[]"로 해본 언어 표시 )
      + 초중급 과정
