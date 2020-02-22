@@ -14,6 +14,9 @@ Let's program using problem solving! (2020-02-16  ~)
 * Java
 * Python
 
+## 참조 책 
+* 종만북 1 , 2
+
 ## 부족한 개념
 
 * Recursive Function
