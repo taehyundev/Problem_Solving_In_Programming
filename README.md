@@ -14,6 +14,12 @@ Let's program using problem solving! (2020-02-16  ~)
 * Java
 * Python
 
+## 부족한 개념
+
+* Recursive Function
+* STL Application
+* Pointer
+* Operator OverLoading
 
 ## 계획과 포부
 
