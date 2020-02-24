@@ -1,7 +1,7 @@
 # Problem_Solving_In_Programming
 Let's program using problem solving! (2020-02-16  ~)
 
-**Last Update : 2020-02-19**
+**Last Update : 2020-02-24**
 
 > PS(Problem Solving)는 주어진 문제를 정해진 언어를 통해 시간 제한과 메모리 제한에서 해결하면 된다.
 
@@ -27,8 +27,10 @@ Let's program using problem solving! (2020-02-16  ~)
 ## 부족한 개념 (Algorithm)
 
 * DP
-* DFS/BFS 응용
+* DFS/BFS 응용 (DP 이용)
 * 정렬 구현 (STL 미사용)
+* 그리디 알고리즘
+* 수열 구하기
 
 ## 계획과 포부
 
@@ -86,7 +88,27 @@ Let's program using problem solving! (2020-02-16  ~)
    
  >> 현재 진행중인 Part 상황
  
- >> 그 이후 그리디 알고리즘 
+ # Dynamic Programming(DP: 동적 계획법)
+ 
+ + DP 기초
+ 
+   + 메모이제이션
+   
+   + 수열 구하기
+   
+ >> 현재 진행중인 Part 상황
+ 
+
+ # Greedy algorithm (그리디 : 탐욕 알고리즘)
+ 
+ + 그리디 기초
+
+   + 동전계산
+   
+   
+DP와 그리디는 서로 보안 하는 형태로 사용된다.
+   
+ >> 현재 진행중인 Part 상황
  
        Etc . 크루스칼 알고리즘, 이진 트리의 구현과 순회, 다이나믹 프로그래밍 
  
