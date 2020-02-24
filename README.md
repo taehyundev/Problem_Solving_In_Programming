@@ -24,6 +24,12 @@ Let's program using problem solving! (2020-02-16  ~)
 * Pointer
 * Operator OverLoading
 
+## 부족항 개념 (Algorithm)
+
+* DP
+* DFS/BFS 응용
+* 정렬 구현 (STL 미사용)
+
 ## 계획과 포부
 
       알고리즘이 보통 중요하다고하고 죽어라 알고리즘만 공부는 하는 방법은 어느 순간이 되면 나한테 너무 영양가가
