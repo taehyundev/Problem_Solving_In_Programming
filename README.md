@@ -24,7 +24,7 @@ Let's program using problem solving! (2020-02-16  ~)
 * Pointer
 * Operator OverLoading
 
-## 부족항 개념 (Algorithm)
+## 부족한 개념 (Algorithm)
 
 * DP
 * DFS/BFS 응용
