@@ -79,7 +79,7 @@ Let's program using problem solving! (2020-02-16  ~)
        
  >> 현재 진행중인 Part 상황
  
- # 이진트리 탐색
+ # 이진트리 탐색 (잠시 보류)
  
  + 이진트리 탐색
  
