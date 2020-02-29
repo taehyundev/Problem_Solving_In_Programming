@@ -104,6 +104,7 @@ Let's program using problem solving! (2020-02-16  ~)
  + 그리디 기초
 
    + 동전계산
+   + 백준 회의실 배정 풀이
    
    
 DP와 그리디는 서로 보안 하는 형태로 사용된다.
