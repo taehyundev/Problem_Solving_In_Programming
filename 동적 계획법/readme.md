@@ -5,3 +5,5 @@
 
 
 * 여러 부분에서 많이 쓰인다.
+
+![image](https://user-images.githubusercontent.com/50985723/75624189-6ce0ac00-5bf5-11ea-8ef1-3e1c689d84d6.png)
